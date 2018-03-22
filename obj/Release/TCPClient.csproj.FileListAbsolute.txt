@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\上位机\TCPClient\bin\Release\TCPClient.exe.config
+C:\Users\Administrator\Desktop\上位机\TCPClient\bin\Release\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPClient\bin\Release\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPClient\bin\Release\mysql.data.dll
+C:\Users\Administrator\Desktop\上位机\TCPClient\obj\Release\TCPClient.Form1.resources
+C:\Users\Administrator\Desktop\上位机\TCPClient\obj\Release\TCPClient.Form2.resources
+C:\Users\Administrator\Desktop\上位机\TCPClient\obj\Release\TCPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位机\TCPClient\obj\Release\TCPClient.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\上位机\TCPClient\obj\Release\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPClient\obj\Release\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPClient\obj\Release\TCPClient.csprojResolveAssemblyReference.cache

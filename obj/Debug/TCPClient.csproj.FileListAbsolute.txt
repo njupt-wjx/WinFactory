@@ -1,0 +1,38 @@
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\bin\Debug\TCPClient.exe
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\bin\Debug\TCPClient.pdb
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.exe
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\C_ SOCKET编写的简单聊天通信程序\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\C_ SOCKET编写的简单聊天通信程序\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\C_ SOCKET编写的简单聊天通信程序\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\C_ SOCKET编写的简单聊天通信程序\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\C_ SOCKET编写的简单聊天通信程序\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C_ SOCKET编写的简单聊天通信程序\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\Administrator\Desktop\C_ SOCKET编写的简单聊天通信程序\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C_ SOCKET编写的简单聊天通信程序\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\上位机\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPClient\bin\Debug\mysql.data.dll
+C:\Users\Administrator\Desktop\上位机\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Administrator\Desktop\上位机\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\Administrator\Desktop\上位机\TCPClient\obj\Debug\TCPClient.Form2.resources
+C:\Users\Administrator\Desktop\上位机\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位机\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\上位机\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上位机\TCPClient服务器\bin\Debug\TCPClient.exe.config
+C:\Users\Administrator\Desktop\上位机\TCPClient服务器\obj\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPClient服务器\obj\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPClient服务器\bin\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPClient服务器\bin\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPClient服务器\bin\Debug\mysql.data.dll
+C:\Users\Administrator\Desktop\上位机\TCPClient服务器\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上位机\TCPClient服务器\obj\Debug\TCPClient.Form1.resources
+C:\Users\Administrator\Desktop\上位机\TCPClient服务器\obj\Debug\TCPClient.Form2.resources
+C:\Users\Administrator\Desktop\上位机\TCPClient服务器\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位机\TCPClient服务器\obj\Debug\TCPClient.csproj.GenerateResource.Cache

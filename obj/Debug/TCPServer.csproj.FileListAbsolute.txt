@@ -1,0 +1,119 @@
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15\bin\Debug\TCPClient.exe.config
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15\obj\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15\obj\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15\bin\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15\bin\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15\bin\Debug\mysql.data.dll
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15\obj\Debug\TCPClient.Form1.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15\obj\Debug\TCPClient.Form2.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15\obj\Debug\TCPServer.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15 - 副本 (2)\bin\Debug\TCPClient.exe.config
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15 - 副本 (2)\obj\Debug\TCPServer.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15 - 副本 (2)\obj\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15 - 副本 (2)\obj\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15 - 副本 (2)\bin\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15 - 副本 (2)\bin\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15 - 副本 (2)\bin\Debug\mysql.data.dll
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15 - 副本 (2)\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15 - 副本 (2)\obj\Debug\TCPClient.Form1.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15 - 副本 (2)\obj\Debug\TCPClient.Form2.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15 - 副本 (2)\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2017.9.15 - 副本 (2)\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.4\bin\Debug\TCPClient.exe.config
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.4\obj\Debug\TCPServer.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.4\obj\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.4\obj\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.4\bin\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.4\bin\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.4\bin\Debug\mysql.data.dll
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.4\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.4\obj\Debug\TCPClient.Form1.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.4\obj\Debug\TCPClient.Form2.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.4\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.4\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\bin\Debug\TCPClient.exe.config
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\obj\Debug\TCPServer.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\obj\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\obj\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\bin\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\bin\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\bin\Debug\mysql.data.dll
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\obj\Debug\TCPClient.Form1.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\obj\Debug\TCPClient.Form2.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\obj\Debug\TCPClient.LoginForm.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\obj\Debug\TCPClient.DailyProductionForm.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\obj\Debug\TCPClient.UpdateDailyProductionForm.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.6\obj\Debug\TCPClient.MainForm.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\bin\Debug\TCPClient.exe.config
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPServer.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\bin\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\bin\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\bin\Debug\mysql.data.dll
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.DailyProductionForm.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.Form1.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.Form2.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.LoginForm.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.MainForm.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.UpdateDailyProductionForm.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.AboutBox1.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.AdminForm.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.HaveBackDBForm.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.StaffInfoForm.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.AdminAddForm.resources
+C:\Users\Administrator\Desktop\上位机\TCPServer-2018.1.15\obj\Debug\TCPClient.ProcessParaForm.resources
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\bin\Debug\TCPClient.exe.config
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPServer.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\bin\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\bin\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\bin\Debug\mysql.data.dll
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.AboutBox1.resources
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.AdminAddForm.resources
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.AdminForm.resources
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.DailyProductionForm.resources
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.Form1.resources
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.Form2.resources
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.HaveBackDBForm.resources
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.LoginForm.resources
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.MainForm.resources
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.ProcessParaForm.resources
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.StaffInfoForm.resources
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPClient.UpdateDailyProductionForm.resources
+C:\Users\Administrator\Desktop\常熟\TCPServer-2018.3.13\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\bin\Debug\TCPClient.exe.config
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPServer.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.AboutBox1.resources
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.AdminAddForm.resources
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.AdminForm.resources
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.DailyProductionForm.resources
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.Form1.resources
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.Form2.resources
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.HaveBackDBForm.resources
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.LoginForm.resources
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.MainForm.resources
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.ProcessParaForm.resources
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.StaffInfoForm.resources
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.UpdateDailyProductionForm.resources
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPClient.Web.HttpSendDataForm.resources
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\bin\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\bin\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\常熟\上位机\TCPServer-2018.3.13\bin\Debug\mysql.data.dll
