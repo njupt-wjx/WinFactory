@@ -125,6 +125,7 @@
     <Compile Include="HaveBackDBForm.Designer.cs">
       <DependentUpon>HaveBackDBForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="HttpUtils.cs" />
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>

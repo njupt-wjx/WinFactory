@@ -33,7 +33,7 @@ namespace TCPClient
                 }
                 else
                 {
-                    string sql = "select Password from Admin where UserName='"+UserName.Text.Trim()+"'";
+                    string sql = "select Password from user where UserName='"+UserName.Text.Trim()+"'";
                     MySqlDataReader sdr = DataBase.getReader(sql);              
                     sdr.Read();//读取
                     if (sdr.HasRows)//验证用户名和密码

@@ -18,7 +18,7 @@ namespace TCPClient
         public static string Mean_Table = "";
         public static string Mean_Field = "";
         public static MySqlConnection mysqlConn;
-        public static string M_str_sqlcon = "Host=localhost;Database=factory;Username=root;Password=123456";
+        public static string M_str_sqlcon = "Host=localhost;Database=db_factory;Username=root;Password=12345678";
         public static int Login_n = 0;//用户登录与重新登录标识
         public static string AllSql = "select * from tb_Stuffbusic";
         #endregion
@@ -29,6 +29,7 @@ namespace TCPClient
             mysqlConn = new MySqlConnection(M_str_sqlcon);
             mysqlConn.Open();
             return mysqlConn;
+
         }
 #endregion
         

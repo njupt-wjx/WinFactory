@@ -12,6 +12,8 @@ using System.Threading;
 using System.Windows.Forms.DataVisualization.Charting;
 using MySql.Data.MySqlClient;
 using System.Collections;
+using System.Web;
+using System.IO;
 namespace TCPClient
 {
     public partial class Form1 : Form
@@ -136,6 +138,7 @@ namespace TCPClient
                     showMsg("\r\n" + stringdata + "\r\n");
 
                     //receiveMsg.AppendText(stringdata + "\r\n");
+
                     m_SyncContext.Post(setTextSafePost, stringdata);
 
                 }
@@ -248,8 +251,29 @@ namespace TCPClient
                         }
                     }
 
-
-                    
+                    //提交到远程数据库中
+                    try
+                    {
+                        string postSpeed = head.ToString() + " "
+                                          + speed1.ToString() + " "
+                                          + speed2.ToString() + " "
+                                          + speed3.ToString() + " "
+                                          + speed4.ToString() + " "
+                                          + speed5.ToString() + " "
+                                          + speed6.ToString() + " "
+                                          + dingSpeed.ToString();
+                        string url = "http://localhost:8081/Factory/ReceiveSpeedServlet?postSpeed=" + postSpeed;
+                        HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
+                        request.Method = "POST";
+                        using (WebResponse wr = request.GetResponse())
+                        {
+                            //在这里对接收到的页面内容进行处理
+                        }
+                        
+                    }
+                    catch (Exception e)
+                    {
+                    }
                     //根据Head分别插入数据库
                     //dataBae.insertDataToDatabase(head, speed1, speed2, speed3, speed4, speed5, speed6);
 

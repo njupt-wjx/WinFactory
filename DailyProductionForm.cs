@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.Net;
 
 namespace TCPClient
 {
@@ -147,6 +148,32 @@ namespace TCPClient
                                                      + Date + "'" + "," + "'" + Class + "'" + "," + "'" + StaffName + "'" + "," + "'" + Kind + "'" + "," + "'" + MachineNumber + "'" + "," + "'" + Output + "'" + ")";
                 MyDatabase db = new MyDatabase();
                 db.executeSql(sql);
+
+
+                //提交到远程数据库中
+                try
+                {
+                    string dailyProduction =  Date + " "
+                                            + Class + " "
+                                            + StaffName + " "
+                                            + Kind + " "
+                                            + MachineNumber + " "
+                                            + Output + " ";
+                    
+                    string url = "http://localhost:8081/Factory/ReceiveDailyServlet?dailyProduction="+dailyProduction;
+                    HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
+                    request.Method = "POST";
+                    request.ContentType = "application/x-www-form-urlencoded;charset=UTF8";
+                    using (WebResponse wr = request.GetResponse())
+                    {
+                        //在这里对接收到的页面内容进行处理
+                    }
+                    //HttpUtils.HttpPostData(url, dailyProduction);
+
+                }
+                catch (Exception ex)
+                {
+                }
             }
             MessageBox.Show("添加数据成功");
 

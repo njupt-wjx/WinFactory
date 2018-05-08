@@ -22,7 +22,8 @@ namespace TCPClient.Web
         {
             try
             {
-                string url = "http://localhost:8081/Factory/NameServlet?name=wjx";
+                string wjx = "wjx";
+                string url = "http://localhost:8081/Factory/NameServlet?name="+wjx;
                 HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
                 request.Method = "POST";
                 using (WebResponse wr = request.GetResponse())
